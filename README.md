@@ -29,4 +29,5 @@ To use this project, you need to download a pre-trained model from the given Goo
      ```bash
      python app.py
      ```
+     [Watch the demo video](https://drive.google.com/file/d/1WEUjAAlyLqnj-B_tgJqUaR0MBcMmSKEQ/view?usp=drive_link)
 <img width="3840" height="1775" alt="image" src="https://github.com/user-attachments/assets/b69b111e-cd17-44ee-bafe-d6a43403bf86" />
