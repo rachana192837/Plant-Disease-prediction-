@@ -8,11 +8,8 @@ Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-datas
 
 To use this project, you need to download a pre-trained model from the given Google Drive link and place it in the `models` directory. Follow the steps below to set it up correctly:
 
-## Steps to Download and Place the Model
-
 1. **Trained Model**
    - Click [here](https://drive.google.com/file/d/1D7M0vK2JswSwxAY6AM4GZh3Qh4-LSXbO/view?usp=drive_link) to open the Google Drive link.
-   - Click the **Download** button to save the file to your local system.
 
 1. **Specify the Model File Location**
    - Open the `app.py` file in a text editor.
