@@ -11,7 +11,7 @@ To use this project, you need to download a pre-trained model from the given Goo
 ## Steps to Download and Place the Model
 
 1. **Trained Model**
-   - Click [here](https://drive.google.com/file/d/1Ond7UzrNOfdAXWedjlZr2sDXYU6MRBuj/view?usp=sharing) to open the Google Drive link.
+   - Click [here]([https://drive.google.com/file/d/1Ond7UzrNOfdAXWedjlZr2sDXYU6MRBuj/view?usp=sharing](https://drive.google.com/file/d/1D7M0vK2JswSwxAY6AM4GZh3Qh4-LSXbO/view?usp=drive_link)) to open the Google Drive link.
    - Click the **Download** button to save the file to your local system.
 
 1. **Specify the Model File Location**
